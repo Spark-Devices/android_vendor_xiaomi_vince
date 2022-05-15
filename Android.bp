@@ -261,12 +261,6 @@ android_app_import {
 }
 
 dex_import {
-	name: "com.qti.snapdragon.sdk.display",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/com.qti.snapdragon.sdk.display.jar"],
-}
-
-dex_import {
 	name: "com.fingerprints.extension",
 	owner: "xiaomi",
 	jars: ["proprietary/vendor/framework/com.fingerprints.extension.jar"],
