@@ -1103,5 +1103,4 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     android.hardware.gnss@2.1-service-qti \
     manifest_android.hardware.drm@1.4-service.widevine \
-    vendor.qti.gnss@4.0-service \
-    chargeonlymode
+    vendor.qti.gnss@4.0-service
